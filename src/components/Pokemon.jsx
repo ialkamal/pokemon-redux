@@ -5,7 +5,11 @@ function Pokemon(props) {
   return (
     <div>
       <h2>{props.pokemon.name}</h2>
-      <img src={props.pokemon.sprites.back_default} width="200px" />
+      <img
+        src={props.pokemon.sprites.back_default}
+        alt={props.pokemon.name}
+        width="200px"
+      />
     </div>
   );
 }
