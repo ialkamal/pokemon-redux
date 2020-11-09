@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Create a Pokemon project using Redux and Poke API
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
